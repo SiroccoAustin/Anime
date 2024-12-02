@@ -1,0 +1,15 @@
+.comments{
+    width: 1100px;
+    border: 1px red solid;
+    height: 700px;
+}
+
+.topAnime{
+    width: 400px;
+    border: 1px green solid;
+}
+
+.comment-sec{
+    display: flex;
+    margin-top: 10px;
+}

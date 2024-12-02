@@ -1,0 +1,10 @@
+
+POST http://localhost:8000/api/info/comment
+Content-Type: application/json
+Authorization: Bearer YOUR_ACCESS_TOKEN
+
+{
+    "content": "What is this comment bro",
+    "user": "6731ca2276e10476f4e141ad"
+
+}

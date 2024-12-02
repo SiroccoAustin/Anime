@@ -1,0 +1,34 @@
+.watch-section{
+    background-color: red;
+    height: 500px;
+}
+
+.head{
+    display: flex;
+    margin-left: 3rem;
+    padding-top: 1.4rem;
+    gap: 20px;
+}
+
+.screen{
+    display: flex;
+    margin: 0 auto;
+    width: 96%;
+    padding: 20px;
+}
+
+.episodes{
+    border: 1px black solid;
+    width: 300px;
+}
+
+.main-3{
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next line if needed */
+    min-width: 800px;
+    height: 800px;
+    margin-top: 40px;
+    margin-left: 10px;
+    gap: 20px;
+    align-items: stretch;
+}

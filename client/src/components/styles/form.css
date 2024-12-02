@@ -1,0 +1,12 @@
+form{
+    display: grid;
+    width: 70%;
+    margin: auto auto;
+}
+
+form input{
+    width: 50%;
+    border-radius: 5px;
+    height: 2.5rem;
+    box-sizing: border-box;
+}
