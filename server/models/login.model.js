@@ -40,7 +40,7 @@ const commentSchema = mongoose.Schema({
     user: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Infomation',
-        required: false
+        required: true
     },
     likes: [
         {

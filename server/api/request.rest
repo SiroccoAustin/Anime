@@ -4,7 +4,7 @@ Content-Type: application/json
 Authorization: Bearer YOUR_ACCESS_TOKEN
 
 {
-    "content": "What is this comment bro",
-    "user": "6731ca2276e10476f4e141ad"
+    "content": "Here is another comment",
+    "user": "674db4fb4bbab1ea44d0a4d7"
 
 }
